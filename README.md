@@ -23,3 +23,7 @@ Calomate mang đến các tính năng cốt lõi sau để hỗ trợ hành trì
 * **Cơ Sở Dữ Liệu Thực Phẩm Phong Phú:** Hỗ trợ tìm kiếm thông tin dinh dưỡng cho hàng ngàn loại thực phẩm.
 
 ---
+## 🖼️ Ảnh minh họa
+
+![Giao diện ](mobile_app/calomate/assets/readme/app_preview.png)
+
